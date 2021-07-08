@@ -1,0 +1,2 @@
+This is an android app that takes a input in the form of a diagram in a canvas and predicts what the user wanted to draw.
+I used MyScript API for the work and the code is a modification on the starter code provided by the API.
